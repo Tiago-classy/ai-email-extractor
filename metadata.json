@@ -1,0 +1,6 @@
+{
+  "name": "AI Email Extractor",
+  "description": "An application that uses AI to simulate crawling a website and extracting email addresses from a given URL.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
